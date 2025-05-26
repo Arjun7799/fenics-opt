@@ -1,0 +1,7 @@
+name: fenics-opt
+channels:
+  - conda-forge
+dependencies:
+  - fenics
+  - fenics-adjoint
+  - matplotlib
